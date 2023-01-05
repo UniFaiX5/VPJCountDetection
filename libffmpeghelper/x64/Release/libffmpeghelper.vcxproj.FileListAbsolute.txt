@@ -1,0 +1,2 @@
+C:\Users\Admin\source\RtspClientSharpCore\libffmpeghelper\x64\Release\libffmpeghelper.dll
+C:\Users\Fahim.Rahmathali\source\repos\RtspClientSharpCore\libffmpeghelper\x64\Release\libffmpeghelper.dll

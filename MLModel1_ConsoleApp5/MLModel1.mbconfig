@@ -1,0 +1,36 @@
+﻿{
+  "TrainingTime": 2147482,
+  "Scenario": "ObjectDetection",
+  "DataSource": {
+    "Type": "Vott",
+    "Version": 1,
+    "FilePath": "C:\\vpjtestimagenew\\output\\vott-json-export\\VOTTMODEL-export.json"
+  },
+  "Environment": {
+    "Type": "Azure",
+    "Version": 1,
+    "SubscriptionID": "9f382fc3-7fe4-4ccd-958c-cebd3070e436",
+    "ResourceGroupName": "test",
+    "WorkspaceName": "mlod",
+    "ComputeName": "xxx",
+    "Location": "westeurope",
+    "ExperimentName": "Objectdetection"
+  },
+  "RunHistory": {
+    "Version": 0,
+    "Type": "Result",
+    "Trials": [
+      {
+        "Version": 0,
+        "Type": "Trial",
+        "TrainerName": "Azure AutoML Algorithm",
+        "Score": 0.9,
+        "RuntimeInSeconds": 731.450204
+      }
+    ],
+    "Pipeline": "[{\"OutputColumnName\":\"input\",\"ImageFolder\":\"\",\"InputColumnName\":\"ImageSource\",\"EstimatorType\":\"LoadImages\",\"Inputs\":[\"ImageSource\"],\"Outputs\":[\"input\"]},{\"OutputColumnName\":\"input\",\"InputColumnName\":\"input\",\"ImageWidth\":\"800\",\"ImageHeight\":\"600\",\"CropAnchor\":\"Center\",\"Resizing\":\"Fill\",\"EstimatorType\":\"ResizeImages\",\"Inputs\":[\"input\"],\"Outputs\":[\"input\"]},{\"OutputColumnName\":\"input\",\"InputColumnName\":\"input\",\"ColorsToExtract\":\"Rgb\",\"OrderOfExtraction\":\"ARGB\",\"EstimatorType\":\"ExtractPixels\",\"Inputs\":[\"input\"],\"Outputs\":[\"input\"]},{\"ModelFile\":\"C:\\\\Users\\\\Admin\\\\source\\\\repos\\\\RtspClientSharpCore\\\\MLModel1_ConsoleApp4\\\\MLModel1.onnx\",\"EstimatorType\":\"ApplyOnnxModel\",\"Inputs\":null,\"Outputs\":null}]",
+    "MetricName": "accuracy"
+  },
+  "Type": "TrainingConfig",
+  "Version": 1
+}

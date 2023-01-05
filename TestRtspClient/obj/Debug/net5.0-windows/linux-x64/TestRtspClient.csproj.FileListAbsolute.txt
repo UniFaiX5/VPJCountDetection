@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\Interop.igfxSDKLib.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.VPJCountDetection.resources
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RtspClientSharpCore\TestRtspClient\obj\Debug\net5.0-windows\linux-x64\TestRtspClient.csproj.CoreCompileInputs.cache

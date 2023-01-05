@@ -1,0 +1,90 @@
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.deps.json
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.AssemblyReference.cache
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfoInputs.cache
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfo.cs
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CoreCompileInputs.cache
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CopyComplete
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\refint\FrameDecoderCore.dll
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\VPJ NEW\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\ref\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.deps.json
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CopyComplete
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\refint\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\ref\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.deps.json
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CopyComplete
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\refint\FrameDecoderCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\Users\Admin\source\repos\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\ref\FrameDecoderCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.deps.json
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfo.cs
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CopyComplete
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\refint\FrameDecoderCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.pdb
+C:\Users\Admin\source\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\ref\FrameDecoderCore.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.deps.json
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\FrameDecoderCore.pdb
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\onnxruntime.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.AssemblyReference.cache
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfoInputs.cache
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.AssemblyInfo.cs
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CoreCompileInputs.cache
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.csproj.CopyComplete
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\refint\FrameDecoderCore.dll
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\FrameDecoderCore.pdb
+D:\FINAL\RtspClientSharpCore\FrameDecoderCore\obj\Debug\net5.0-windows\ref\FrameDecoderCore.dll

@@ -1,0 +1,36 @@
+﻿{
+  "TrainingTime": 2147482,
+  "Scenario": "ImageClassification",
+  "DataSource": {
+    "Type": "Folder",
+    "Version": 1,
+    "FolderPath": "C:\\ImageMLProjects\\train"
+  },
+  "Environment": {
+    "Type": "Azure",
+    "Version": 1,
+    "SubscriptionID": "9f382fc3-7fe4-4ccd-958c-cebd3070e436",
+    "ResourceGroupName": "test",
+    "WorkspaceName": "mlod",
+    "ComputeName": "xxx",
+    "Location": "westeurope",
+    "ExperimentName": "Imageclassification"
+  },
+  "RunHistory": {
+    "Version": 0,
+    "Type": "Result",
+    "Trials": [
+      {
+        "Version": 0,
+        "Type": "Trial",
+        "TrainerName": "Azure AutoML Algorithm",
+        "Score": 1.0,
+        "RuntimeInSeconds": 1068.7286718
+      }
+    ],
+    "Pipeline": "[{\"OutputColumnName\":\"input1\",\"ImageFolder\":\"\",\"InputColumnName\":\"ImageSource\",\"EstimatorType\":\"LoadImages\",\"Inputs\":[\"ImageSource\"],\"Outputs\":[\"input1\"]},{\"OutputColumnName\":\"input1\",\"InputColumnName\":\"input1\",\"ImageWidth\":\"224\",\"ImageHeight\":\"224\",\"CropAnchor\":\"Center\",\"Resizing\":\"IsoCrop\",\"EstimatorType\":\"ResizeImages\",\"Inputs\":[\"input1\"],\"Outputs\":[\"input1\"]},{\"OutputColumnName\":\"input1\",\"InputColumnName\":\"input1\",\"ColorsToExtract\":\"Rgb\",\"OrderOfExtraction\":\"ARGB\",\"EstimatorType\":\"ExtractPixels\",\"Inputs\":[\"input1\"],\"Outputs\":[\"input1\"]},{\"ModelFile\":\"C:\\\\Users\\\\Admin\\\\source\\\\repos\\\\RtspClientSharpCore\\\\ImageClassification_ConsoleApp1\\\\ImageClassification.onnx\",\"EstimatorType\":\"ApplyOnnxModel\",\"Inputs\":null,\"Outputs\":null}]",
+    "MetricName": "accuracy"
+  },
+  "Type": "TrainingConfig",
+  "Version": 1
+}

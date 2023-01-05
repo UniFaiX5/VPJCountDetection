@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TestRtspClient</id>
+    <version>1.0.0</version>
+    <authors>TestRtspClient</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="FrameDecoderCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="ImageClassification_ConsoleApp2" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MLModel1_ConsoleApp5" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RtspClientSharpCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AI.MachineLearning" version="1.12.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ML" version="1.7.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ML.ImageAnalytics" version="1.7.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ML.OnnxRuntime" version="1.12.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ML.OnnxRuntime.Managed" version="1.12.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ML.OnnxTransformer" version="1.7.1" exclude="Build,Analyzers" />
+        <dependency id="S7netplus" version="0.14.0" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.Tasks" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net5.0-windows7.0/DirectML.dll" buildAction="Content" />
+      <files include="any/net5.0-windows7.0/DirectML.pdb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\source\RtspClientSharpCore\TestRtspClient\bin\Debug\net5.0-windows\TestRtspClient.runtimeconfig.json" target="lib\net5.0-windows7.0\TestRtspClient.runtimeconfig.json" />
+    <file src="C:\Users\Admin\source\RtspClientSharpCore\TestRtspClient\bin\Debug\net5.0-windows\TestRtspClient.dll" target="lib\net5.0-windows7.0\TestRtspClient.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\microsoft.ai.directml\1.9.0\bin\x64-win\DirectML.dll" target="content\DirectML.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\microsoft.ai.directml\1.9.0\bin\x64-win\DirectML.dll" target="contentFiles\any\net5.0-windows7.0\DirectML.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\microsoft.ai.directml\1.9.0\bin\x64-win\DirectML.pdb" target="content\DirectML.pdb" />
+    <file src="C:\Users\Admin\.nuget\packages\microsoft.ai.directml\1.9.0\bin\x64-win\DirectML.pdb" target="contentFiles\any\net5.0-windows7.0\DirectML.pdb" />
+  </files>
+</package>

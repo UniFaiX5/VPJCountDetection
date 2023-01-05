@@ -1,0 +1,80 @@
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.deps.json
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.AssemblyReference.cache
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfoInputs.cache
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfo.cs
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CoreCompileInputs.cache
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CopyComplete
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\refint\RtspClientSharpCore.dll
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\VPJ NEW\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\ref\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.deps.json
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CopyComplete
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\refint\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\repos\debug\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\ref\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.deps.json
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CopyComplete
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\refint\RtspClientSharpCore.dll
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\repos\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\ref\RtspClientSharpCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.deps.json
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime.dll
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfo.cs
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CopyComplete
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\refint\RtspClientSharpCore.dll
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.pdb
+C:\Users\Admin\source\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\ref\RtspClientSharpCore.dll
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime_providers_shared.dll
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.deps.json
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.dll
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\RtspClientSharpCore.pdb
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\microsoft.ai.machinelearning.dll
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\bin\Debug\net5.0-windows\onnxruntime.dll
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.AssemblyReference.cache
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfoInputs.cache
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.AssemblyInfo.cs
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CoreCompileInputs.cache
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.csproj.CopyComplete
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.dll
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\refint\RtspClientSharpCore.dll
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\RtspClientSharpCore.pdb
+D:\FINAL\RtspClientSharpCore\RtspClientSharpCore\obj\Debug\net5.0-windows\ref\RtspClientSharpCore.dll
