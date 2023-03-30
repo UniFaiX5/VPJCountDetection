@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\VPJCountDetection.csproj": {}
+    "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\VPJCountDetection.csproj": {}
   },
   "projects": {
-    "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj": {
+    "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj",
+        "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj",
         "projectName": "FrameDecoderCore",
-        "projectPath": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj",
+        "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\obj\\",
+        "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-                "projectPath": "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+              "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+                "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
               }
             }
           }
@@ -75,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj": {
+    "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj",
         "projectName": "ImageClassification_ConsoleApp2",
-        "projectPath": "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj",
+        "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,18 +154,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj": {
+    "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
+        "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
         "projectName": "MLModel1_ConsoleApp5",
-        "projectPath": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
+        "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\obj\\",
+        "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -233,18 +233,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+    "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
+        "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
         "projectName": "RtspClientSharpCore",
-        "projectPath": "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
+        "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\obj\\",
+        "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -316,18 +316,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\VPJCountDetection.csproj": {
+    "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\VPJCountDetection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\VPJCountDetection.csproj",
+        "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\VPJCountDetection.csproj",
         "projectName": "VPJCountDetection",
-        "projectPath": "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\VPJCountDetection.csproj",
+        "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\VPJCountDetection.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\obj\\",
+        "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -350,17 +350,17 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj": {
-                "projectPath": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj"
+              "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj": {
+                "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj"
               },
-              "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj": {
-                "projectPath": "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj"
+              "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj": {
+                "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj"
               },
-              "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj": {
-                "projectPath": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj"
+              "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj": {
+                "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj"
               },
-              "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-                "projectPath": "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+              "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+                "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
               }
             }
           }
@@ -375,10 +375,6 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "dependencies": {
-            "Microsoft.AI.MachineLearning": {
-              "target": "Package",
-              "version": "[1.12.1, )"
-            },
             "Microsoft.ML": {
               "target": "Package",
               "version": "[1.7.1, )"
@@ -435,7 +431,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

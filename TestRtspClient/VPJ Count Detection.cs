@@ -19,6 +19,7 @@ using ImageClassification = ImageClassification_ConsoleApp2.ImageClassification;
 using Range = Microsoft.Office.Interop.Excel.Range;
 using System.Collections.Generic;
 
+
 namespace VPJCountDetection
 {
     public partial class VPJCountDetection : Form
@@ -386,7 +387,7 @@ namespace VPJCountDetection
             if (FGS50.Contains(FGcode))
             {
                 Bountlecount = 12;
-                AddStatus("FGcode loeaded for 50ml Jar & boundle count is 12", "Information");
+                AddStatus("FGcode loaded for 50ml Jar & boundle count is 12", "Information");
                 Format = " 50ml Jar & boundle count is 12";
             }
 
@@ -394,14 +395,14 @@ namespace VPJCountDetection
             if (FGS100.Contains(FGcode))
             {
                 Bountlecount = 12;
-                AddStatus("FGcode loeaded for 100ml Jar & boundle count is 12", "Information");
+                AddStatus("FGcode loaded for 100ml Jar & boundle count is 12", "Information");
                 Format = " 100ml Jar & boundle count is 12";
             }
 
             if (FGS250.Contains(FGcode))
             {
                 Bountlecount = 6;
-                AddStatus("FGcode loeaded for 250ml Jar & boundle count is 6", "Information");
+                AddStatus("FGcode loaded for 250ml Jar & boundle count is 6", "Information");
                 Format = " 250ml Jar & boundle count is 6";
             }
 
@@ -409,7 +410,7 @@ namespace VPJCountDetection
             if (FGS450.Contains(FGcode))
             {
                 Bountlecount = 6;
-                AddStatus("FGcode loeaded for 450ml Jar & boundle count is 6", "Information");
+                AddStatus("FGcode loaded for 450ml Jar & boundle count is 6", "Information");
                 Format = " 450ml Jar & boundle count is 6";
             }
 
@@ -990,6 +991,19 @@ namespace VPJCountDetection
             button6.BackColor = Color.Gray;
         }
 
+  
+
+        private void FormClosing_Click(object sender, EventArgs e)
+        {
+
+            AddStatus("Closing the Application ", "Information");
+            
+            Environment.Exit(0);
+
+
+
+
+        }
     }
 
 
@@ -1032,8 +1046,7 @@ namespace VPJCountDetection
         
     }
 
-
-    
+ 
 
 
 

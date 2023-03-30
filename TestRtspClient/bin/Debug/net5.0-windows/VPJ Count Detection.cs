@@ -19,6 +19,7 @@ using ImageClassification = ImageClassification_ConsoleApp2.ImageClassification;
 using Range = Microsoft.Office.Interop.Excel.Range;
 using System.Collections.Generic;
 
+
 namespace VPJCountDetection
 {
     public partial class VPJCountDetection : Form
@@ -344,7 +345,7 @@ namespace VPJCountDetection
             }
 
             clk = clk + 1;
-
+           
 
             PartnerPODataPLCClass poplc = new PartnerPODataPLCClass();
             //  Console.WriteLine($"Platform {RuntimeInformation.OSDescription} {RuntimeInformation.OSArchitecture}");
@@ -386,7 +387,7 @@ namespace VPJCountDetection
             if (FGS50.Contains(FGcode))
             {
                 Bountlecount = 12;
-                AddStatus("FGcode loeaded for 50ml Jar & boundle count is 12", "Information");
+                AddStatus("FGcode loaded for 50ml Jar & boundle count is 12", "Information");
                 Format = " 50ml Jar & boundle count is 12";
             }
 
@@ -394,14 +395,14 @@ namespace VPJCountDetection
             if (FGS100.Contains(FGcode))
             {
                 Bountlecount = 12;
-                AddStatus("FGcode loeaded for 100ml Jar & boundle count is 12", "Information");
+                AddStatus("FGcode loaded for 100ml Jar & boundle count is 12", "Information");
                 Format = " 100ml Jar & boundle count is 12";
             }
 
             if (FGS250.Contains(FGcode))
             {
                 Bountlecount = 6;
-                AddStatus("FGcode loeaded for 250ml Jar & boundle count is 6", "Information");
+                AddStatus("FGcode loaded for 250ml Jar & boundle count is 6", "Information");
                 Format = " 250ml Jar & boundle count is 6";
             }
 
@@ -409,7 +410,7 @@ namespace VPJCountDetection
             if (FGS450.Contains(FGcode))
             {
                 Bountlecount = 6;
-                AddStatus("FGcode loeaded for 450ml Jar & boundle count is 6", "Information");
+                AddStatus("FGcode loaded for 450ml Jar & boundle count is 6", "Information");
                 Format = " 450ml Jar & boundle count is 6";
             }
 
@@ -567,7 +568,7 @@ namespace VPJCountDetection
                                             }
                                             //250ml (used to allow first bundle to pass)
 
-                                            MachinePLC.WriteBit(DataType.DataBlock, interlockplc.PLCDBNumber, interlockplc.VPJCDInterlock, interlockplc.VPJCDInterlock, 1);   //
+                                            MachinePLC.WriteBit(DataType.DataBlock, interlockplc.PLCDBNumber, interlockplc.VPJCDInterlock, interlockplc.VPJCDInterlock, 0);   //
                                             Thread.Sleep(2000);
                                             MachinePLC.WriteBit(DataType.DataBlock, interlockplc.PLCDBNumber, interlockplc.VPJCDInterlock, interlockplc.VPJCDInterlock, 0);
                                             MachinePLC.Close();
@@ -990,6 +991,18 @@ namespace VPJCountDetection
             button6.BackColor = Color.Gray;
         }
 
+  
+
+        private void FormClosing_Click(object sender, EventArgs e)
+        {
+
+            AddStatus("Closing the Application ", "Information");
+            Environment.Exit(0);
+
+
+
+
+        }
     }
 
 
@@ -1032,8 +1045,26 @@ namespace VPJCountDetection
         
     }
 
+   /* private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+    {
+        if (e.CloseReason == CloseReason.UserClosing)
+        {
+            DialogResult result = MessageBox.Show("Do you really want to exit?", "Dialog Title", MessageBoxButtons.YesNo);
+            if (result == DialogResult.Yes)
+            {
+                Environment.Exit(0);
+            }
+            else
+            {
+                e.Cancel = true;
+            }
+        }
+        else
+        {
+            e.Cancel = true;
+        }
+    }*/
 
-    
 
 
 

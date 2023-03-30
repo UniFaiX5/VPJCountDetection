@@ -6386,11 +6386,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj",
+      "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj",
       "projectName": "FrameDecoderCore",
-      "projectPath": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj",
+      "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj",
       "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-      "outputPath": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\obj\\",
+      "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6413,8 +6413,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-              "projectPath": "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
             }
           }
         }
@@ -6454,7 +6454,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

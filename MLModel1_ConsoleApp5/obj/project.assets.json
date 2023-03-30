@@ -6036,11 +6036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
+      "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
       "projectName": "MLModel1_ConsoleApp5",
-      "projectPath": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
+      "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj",
       "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-      "outputPath": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\obj\\",
+      "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6108,7 +6108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

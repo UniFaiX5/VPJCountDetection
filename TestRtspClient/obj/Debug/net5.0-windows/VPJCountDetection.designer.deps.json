@@ -15,7 +15,7 @@
         }
       },
       "Microsoft.AI.DirectML/1.9.0": {},
-      "Microsoft.AI.MachineLearning/1.12.1": {
+      "Microsoft.AI.MachineLearning/1.12.0": {
         "dependencies": {
           "Microsoft.AI.DirectML": "1.9.0"
         },
@@ -1647,12 +1647,12 @@
       "path": "microsoft.ai.directml/1.9.0",
       "hashPath": "microsoft.ai.directml.1.9.0.nupkg.sha512"
     },
-    "Microsoft.AI.MachineLearning/1.12.1": {
+    "Microsoft.AI.MachineLearning/1.12.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/7FZ7WW4O+sh0Cu64mbQK1zEfqxwS8nqZ2+SqpjXOANIRDHDImCFJMsQMeqWOJqROtwyWHB0CVeBkg/mALNqtQ==",
-      "path": "microsoft.ai.machinelearning/1.12.1",
-      "hashPath": "microsoft.ai.machinelearning.1.12.1.nupkg.sha512"
+      "sha512": "sha512-MUtb9plvMVIo9VpbFr8P0FipoIcfglHY3ClavUaHwrKYz+4AeGc5/0LLpQY3jrY73LBXNKsrIyquRpeJtOka2A==",
+      "path": "microsoft.ai.machinelearning/1.12.0",
+      "hashPath": "microsoft.ai.machinelearning.1.12.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.3.0": {
       "type": "package",

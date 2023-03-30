@@ -18,11 +18,10 @@
       "Microsoft.AI.DirectML/1.9.0": {
         "type": "package",
         "build": {
-          "build/Microsoft.AI.DirectML.props": {},
-          "build/Microsoft.AI.DirectML.targets": {}
+          "build/_._": {}
         }
       },
-      "Microsoft.AI.MachineLearning/1.12.1": {
+      "Microsoft.AI.MachineLearning/1.12.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.AI.DirectML": "1.9.0"
@@ -34,8 +33,7 @@
           "lib/net5.0/Microsoft.AI.MachineLearning.Interop.dll": {}
         },
         "build": {
-          "build/net5.0/Microsoft.AI.MachineLearning.props": {},
-          "build/net5.0/Microsoft.AI.MachineLearning.targets": {}
+          "build/net5.0/_._": {}
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -2149,10 +2147,10 @@
         "microsoft.ai.directml.nuspec"
       ]
     },
-    "Microsoft.AI.MachineLearning/1.12.1": {
-      "sha512": "/7FZ7WW4O+sh0Cu64mbQK1zEfqxwS8nqZ2+SqpjXOANIRDHDImCFJMsQMeqWOJqROtwyWHB0CVeBkg/mALNqtQ==",
+    "Microsoft.AI.MachineLearning/1.12.0": {
+      "sha512": "MUtb9plvMVIo9VpbFr8P0FipoIcfglHY3ClavUaHwrKYz+4AeGc5/0LLpQY3jrY73LBXNKsrIyquRpeJtOka2A==",
       "type": "package",
-      "path": "microsoft.ai.machinelearning/1.12.1",
+      "path": "microsoft.ai.machinelearning/1.12.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2193,7 +2191,7 @@
         "build/uap10.0/include/onnxruntime_session_options_config_keys.h",
         "build/uap10.0/include/provider_options.h",
         "lib/net5.0/Microsoft.AI.MachineLearning.Interop.dll",
-        "microsoft.ai.machinelearning.1.12.1.nupkg.sha512",
+        "microsoft.ai.machinelearning.1.12.0.nupkg.sha512",
         "microsoft.ai.machinelearning.nuspec",
         "runtimes/win-arm/_native/microsoft.ai.machinelearning.dll",
         "runtimes/win-arm/_native/microsoft.ai.machinelearning.lib",
@@ -6471,7 +6469,6 @@
       "FrameDecoderCore >= 1.0.0",
       "ImageClassification_ConsoleApp2 >= 1.0.0",
       "MLModel1_ConsoleApp5 >= 1.0.0",
-      "Microsoft.AI.MachineLearning >= 1.12.1",
       "Microsoft.ML >= 1.7.1",
       "Microsoft.ML.ImageAnalytics >= 1.7.1",
       "Microsoft.ML.OnnxRuntime >= 1.12.1",
@@ -6491,11 +6488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\VPJCountDetection.csproj",
+      "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\VPJCountDetection.csproj",
       "projectName": "VPJCountDetection",
-      "projectPath": "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\VPJCountDetection.csproj",
+      "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\VPJCountDetection.csproj",
       "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-      "outputPath": "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\obj\\",
+      "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6518,17 +6515,17 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj": {
-              "projectPath": "D:\\FINAL\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\FrameDecoderCore\\FrameDecoderCore.csproj"
             },
-            "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj": {
-              "projectPath": "D:\\FINAL\\RtspClientSharpCore\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\ImageClassification_ConsoleApp2\\ImageClassification_ConsoleApp2.csproj"
             },
-            "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj": {
-              "projectPath": "D:\\FINAL\\RtspClientSharpCore\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\MLModel1_ConsoleApp5\\MLModel1_ConsoleApp5.csproj"
             },
-            "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-              "projectPath": "D:\\FINAL\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
             }
           }
         }
@@ -6543,10 +6540,6 @@
       "net5.0-windows7.0": {
         "targetAlias": "net5.0-windows",
         "dependencies": {
-          "Microsoft.AI.MachineLearning": {
-            "target": "Package",
-            "version": "[1.12.1, )"
-          },
           "Microsoft.ML": {
             "target": "Package",
             "version": "[1.7.1, )"
@@ -6603,7 +6596,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

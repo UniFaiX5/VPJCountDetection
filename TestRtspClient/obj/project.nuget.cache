@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5JKESvLWI5tzoDIW6mfA7iRUjee6aUxruoXIAEYCLIWbDIGwIHYKIth9SVXLDNAvk8DTkYZBFRpXHVXIZLe/QA==",
+  "dgSpecHash": "Gn4O7sdbihOMeic3it9m0eqLTV86POU9u3xMuOikGDCQVYzns9kqnpm9K5wwHOiaLLxd2C0OGR98ffluifnavg==",
   "success": true,
-  "projectFilePath": "D:\\FINAL\\RtspClientSharpCore\\TestRtspClient\\VPJCountDetection.csproj",
+  "projectFilePath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\VPJCountDetection\\VPJCountDetection\\TestRtspClient\\VPJCountDetection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\microsoft.ai.directml\\1.9.0\\microsoft.ai.directml.1.9.0.nupkg.sha512",
-    "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\microsoft.ai.machinelearning\\1.12.1\\microsoft.ai.machinelearning.1.12.1.nupkg.sha512",
+    "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\microsoft.ai.machinelearning\\1.12.0\\microsoft.ai.machinelearning.1.12.0.nupkg.sha512",
     "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\microsoft.ml\\1.7.1\\microsoft.ml.1.7.1.nupkg.sha512",
     "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\microsoft.ml.cpumath\\1.7.1\\microsoft.ml.cpumath.1.7.1.nupkg.sha512",

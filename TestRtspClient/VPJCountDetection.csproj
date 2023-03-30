@@ -74,9 +74,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AI.MachineLearning" Version="1.12.1">
-      <TreatAsUsed>true</TreatAsUsed>
-    </PackageReference>
     <PackageReference Include="Microsoft.ML" Version="1.7.1">
       <TreatAsUsed>true</TreatAsUsed>
     </PackageReference>

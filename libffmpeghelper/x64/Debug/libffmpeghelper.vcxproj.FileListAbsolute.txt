@@ -1,2 +1,3 @@
 C:\Users\Fahim.Rahmathali\source\repos\RtspClientSharpCore\libffmpeghelper\x64\Debug\libffmpeghelper.dll
 D:\FINAL\RtspClientSharpCore\libffmpeghelper\x64\Debug\libffmpeghelper.dll
+C:\Users\Fahim.Rahmathali\source\repos\VPJCountDetection\VPJCountDetection\libffmpeghelper\x64\Debug\libffmpeghelper.dll

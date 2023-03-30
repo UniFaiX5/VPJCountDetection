@@ -3,5 +3,5 @@
   dllmain.cpp
   videodecoding.cpp
   Generating Code...
-     Creating library D:\FINAL\RtspClientSharpCore\libffmpeghelper\x64\Debug\libffmpeghelper.lib and object D:\FINAL\RtspClientSharpCore\libffmpeghelper\x64\Debug\libffmpeghelper.exp
-  libffmpeghelper.vcxproj -> D:\FINAL\RtspClientSharpCore\libffmpeghelper\x64\Debug\libffmpeghelper.dll
+     Creating library C:\Users\Fahim.Rahmathali\source\repos\VPJCountDetection\VPJCountDetection\libffmpeghelper\x64\Debug\libffmpeghelper.lib and object C:\Users\Fahim.Rahmathali\source\repos\VPJCountDetection\VPJCountDetection\libffmpeghelper\x64\Debug\libffmpeghelper.exp
+  libffmpeghelper.vcxproj -> C:\Users\Fahim.Rahmathali\source\repos\VPJCountDetection\VPJCountDetection\libffmpeghelper\x64\Debug\libffmpeghelper.dll
